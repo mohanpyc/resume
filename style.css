@@ -1,0 +1,36 @@
+
+.container{
+    height: 960px;
+    width: 1000px!important;
+    background-color: yellowgreen;
+}
+.navbar{
+    height: 50px;
+    width: 100%;
+    background-color: darkgray;
+}
+
+.header{
+    margin: 0;
+    padding: 0;
+    height: 150px;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+.left{
+    margin: 0;
+    padding: 0;
+    height: 760px;
+    width: 100%;
+    background-color: crimson;
+    width: 100%;
+}
+
+.right{
+    margin: 0;
+    padding: 0;
+    height: 760px;
+    background-color: darkgoldenrod;
+    width: 100%;
+}
