@@ -21,7 +21,7 @@
     position: relative;
     margin: 10px;
     display: inline;
-    color: #0D8FCD;
+    color: #007bff;
 }
 
 
@@ -36,12 +36,12 @@
 .header h1{
     padding: 0;
     margin: 0;
-    color: #0D8FCD;
+    color: #007bff;
 }
 .header p{
     padding: 0;
     margin: 0;
-    color: #0D8FCD;
+    color: #007bff;
 }
 
 .left{
@@ -79,9 +79,9 @@
     text-align: center;
     padding: 5px;
     border-radius:50%;
-    background-color: #0D8FCD;
+    background-color: #007bff;
     color: #FFFFFF;
-    border: solid #0D8FCD 1px;
+    border: solid #007bff 1px;
 }
 
 .react_image img{
