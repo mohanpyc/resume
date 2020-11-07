@@ -1,6 +1,8 @@
 
-.container-fluid{
-margin: 20px;
+.containerf{
+    height: 1580px;
+    width: 950px;
+    margin:0px 300px ;
 }
 .navbar{
     margin-top: 5px;
