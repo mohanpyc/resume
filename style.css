@@ -1,27 +1,46 @@
 
-.container{
-    height: 960px;
-    width: 1000px!important;
-    background-color: yellowgreen;
+.containerf{
+    height: 1580px;
+    width: 1000px;
+    margin:0px 200px ;
 }
 .navbar{
+ 
+    text-align:left;
     height: 50px;
     width: 100%;
     background-color: darkgray;
 }
 
+.navbar p{
+    padding-left: 20px;
+}
+
+.fa,.fa-envelope,.fa-mobile,.fa-github,.fa-map-marker{
+    position: relative;
+    margin: 10px;
+    display: inline;
+    color: midnightblue;
+}
+
+
+
 .header{
     margin: 0;
     padding: 0;
-    height: 150px;
+    height: 140px;
     width: 100%;
-    background-color: cadetblue;
+}
+
+.header h1{
+    padding: 10px;
+    color: midnightblue;
 }
 
 .left{
     margin: 0;
     padding: 0;
-    height: 760px;
+    height: 1060px;
     width: 100%;
     background-color: crimson;
     width: 100%;
@@ -30,7 +49,7 @@
 .right{
     margin: 0;
     padding: 0;
-    height: 760px;
+    height: 1060px;
     background-color: darkgoldenrod;
     width: 100%;
 }
